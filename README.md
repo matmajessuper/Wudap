@@ -4,7 +4,7 @@
 git clone https://github.com/matmajessuper/Wudap.git
 ```
 - create virtualenv
-- install requirements.txt
+- install requirements
 ```sh
 pip install -r requirements.txt
 ```
