@@ -1,4 +1,4 @@
-werkzeug==0.16.1
+werkzeug==2.2.3
 Flask==1.1.2
 flask-marshmallow==0.10.1
 flask-restplus==0.12.1
